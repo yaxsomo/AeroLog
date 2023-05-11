@@ -23,7 +23,7 @@ L'objectif principal de ce projet est de créer une application de simulation de
 
 ## Phases
 
-Consultez le fichier [phases.md](phases.md) pour plus de détails sur les différentes phases du projet.
+Consultez le fichier [Phases.md](Phases.md) pour plus de détails sur les différentes phases du projet.
 
 ## Contribution
 
