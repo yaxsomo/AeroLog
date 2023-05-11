@@ -15,9 +15,11 @@ L'objectif principal de ce projet est de créer une application de simulation de
 
 ## Technologies utilisées
 
-Java
-Eclipse
-jMonkeyEngine (bibliothèque open source pour les graphismes et la physique)
+- Java
+- Eclipse IDE
+- jMonkeyEngine (bibliothèque open source pour les graphismes et la physique)
+- EMF (Eclipse Modeling Framework) pour la modélisation des données de vols
+- JUnit pour les tests unitaires
 
 ## Contribution
 
