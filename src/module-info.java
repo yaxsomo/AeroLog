@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author yaxsomo
+ *
+ */
+module AeroLog {
+}
