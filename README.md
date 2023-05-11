@@ -21,6 +21,10 @@ L'objectif principal de ce projet est de créer une application de simulation de
 - EMF (Eclipse Modeling Framework) pour la modélisation des données de vols
 - JUnit pour les tests unitaires
 
+## Phases
+
+Consultez le fichier [phases.md](phases.md) pour plus de détails sur les différentes phases du projet.
+
 ## Contribution
 
 Les contributions à ce projet sont les bienvenues ! Si vous avez des idées d'amélioration ou de nouvelles fonctionnalités à proposer, n'hésitez pas à créer une pull request ou à ouvrir une issue.
