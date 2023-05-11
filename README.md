@@ -1,5 +1,7 @@
 # AeroLog
 
+![Group 1](https://github.com/yaxsomo/AeroLog/assets/71334330/bacf8c99-a7b6-4f85-a45c-428d2dcc46ef)
+
 AeroLog est un logiciel de simulation de vol développé en Java avec l'utilisation d'Eclipse comme environnement de développement et de gestion de code. Ce programme permet de simuler un vol d'avion à l'aide d'une interface graphique pour une expérience plus immersive.
 
 ## Fonctionnalités
